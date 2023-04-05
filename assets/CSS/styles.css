@@ -29,6 +29,19 @@
     padding-bottom: 20px;
 }
 
+.designexplain{
+    display: none;
+    text-align: center;
+}
+.devexplain{
+    display: none;
+    text-align: center;
+}
+.pmexplain{
+    display: none;
+    text-align: center;
+}
+
 .div3text{
     color: white;
     text-align: center;
