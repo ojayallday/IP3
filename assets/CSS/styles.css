@@ -2,6 +2,8 @@
     background-image: url("../backgrounds/h_img.jpg");
     box-align: center;
     font-family: 'Roboto', sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .headingtext{
@@ -18,15 +20,24 @@
 }
 .twodiv{
     text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .threediv{
     background-image: url("../backgrounds/s_image.jpg");
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.fourdiv{
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .whatwedoicons{
     align-items: center;
-    padding-left: 170px;
+    padding-left: 150px;
     padding-top: 20px;
     padding-bottom: 20px;
+    
 }
 
 .designexplain{
