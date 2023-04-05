@@ -22,6 +22,12 @@
 .threediv{
     background-image: url("../backgrounds/s_image.jpg");
 }
+.whatwedoicons{
+    align-items: center;
+    padding-left: 170px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
 .div3text{
     color: white;
@@ -64,4 +70,24 @@
 }
 .contactusdiv{
     margin-top: 40px;
+    
+}
+.socialdiv{
+    margin-top: 50px;
+}
+.div3head{
+    padding-top: 50px;
+}
+.middlesocial{
+    align-items: center;
+    margin-left: 160px;
+}
+footer{
+    padding-top: 10px;
+    text-align: center;
+    
+}
+#footertxt{
+    padding-top: 25px;
+    font-size: 0.5em;
 }
