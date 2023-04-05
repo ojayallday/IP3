@@ -42,6 +42,12 @@
     text-align: center;
 }
 
+.portfolioimg{
+    
+    min-height: 214px;
+    min-width: 280px;
+}
+
 .div3text{
     color: white;
     text-align: center;
@@ -103,4 +109,147 @@ footer{
 #footertxt{
     padding-top: 25px;
     font-size: 0.5em;
+}
+
+#portfolioimg1{
+    background-image: url("../portfolio/work4.jpg");
+}
+#hover1{
+    display: none;
+    margin-top: 20px;
+    margin: 10px;
+    border: solid;
+    border-color: white;
+    text-align: center;
+    color: white;
+    background-color: transparent;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 40px;
+}
+
+#portfolioimg2{
+    background-image: url("../portfolio/work3.jpg");
+}
+
+#hover2{
+    display: none;
+    margin-top: 20px;
+    margin: 10px;
+    border: solid;
+    border-color: green;
+    text-align: center;
+    color: rgb(42, 207, 42);
+    background-color: transparent;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#portfolioimg3{
+    background-image: url("../portfolio/work2.jpg");
+}
+
+#hover3{
+    display: none;
+    margin-top: 20px;
+    margin: 10px;
+    border: solid;
+    border-color:white;
+    text-align: center;
+    color: white;
+    background-color: transparent;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#portfolioimg4{
+    background-image: url("../portfolio/work1.jpg");
+}
+
+#hover4{
+    display: none;
+    margin-top: 20px;
+    margin: 10px;
+    border: solid;
+    border-color:white;
+    text-align: center;
+    color: white;
+    background-color: transparent;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#portfolioimg5{
+    background-image: url("../portfolio/work5.jpg");
+}
+
+#hover5{
+    display: none;
+    margin-top: 30px;
+    margin: 10px;
+    border: solid;
+    border-color:red;
+    text-align: center;
+    color: red;
+    background-color: transparent;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#portfolioimg6{
+    background-image: url("../portfolio/work6.jpg");
+}
+
+#hover6{
+    display: none;
+    margin-top: 30px;
+    margin: 10px;
+    border: solid;
+    border-color:blue;
+    text-align: center;
+    color: blue;
+    background-color: transparent;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#portfolioimg7{
+    background-image: url("../portfolio/work7.jpg");
+}
+
+#hover7{
+    display: none;
+    margin-top: 30px;
+    margin: 10px;
+    border: solid;
+    border-color:white;
+    text-align: center;
+    color: white;
+    background-color: transparent;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#portfolioimg8{
+    background-image: url("../portfolio/work8.jpg");
+}
+
+#hover8{
+    display: none;
+    margin-top: 30px;
+    margin: 10px;
+    border: solid;
+    border-color:white;
+    text-align: center;
+    color:white;
+    background-color: transparent;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    padding-left: 10px;
 }
